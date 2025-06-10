@@ -36,7 +36,9 @@ button {
   background-color: whitesmoke;
   color: #333;
 }
-
+select {
+  padding: 0.2rem;
+}
 #top {
   padding-top: 1rem;
 }
